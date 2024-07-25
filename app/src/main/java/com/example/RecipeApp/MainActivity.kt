@@ -1,4 +1,4 @@
-package com.example.quotecomposeapp
+package com.example.RecipeApp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.safeDrawingPadding
 import androidx.compose.ui.Modifier
 import androidx.navigation.compose.rememberNavController
-import com.example.quotecomposeapp.ui.theme.MyRecipeAppTheme
+import com.example.RecipeApp.ui.theme.MyRecipeAppTheme
 
 
 class MainActivity : ComponentActivity() {

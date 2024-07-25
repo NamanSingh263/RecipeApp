@@ -1,4 +1,4 @@
-package com.example.quotecomposeapp
+package com.example.RecipeApp
 
 sealed class Screen(val route: String) {
     object RecipeScreen : Screen("recipescreen")

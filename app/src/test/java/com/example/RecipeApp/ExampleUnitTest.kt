@@ -1,4 +1,4 @@
-package com.example.quotecomposeapp
+package com.example.RecipeApp
 
 import org.junit.Test
 

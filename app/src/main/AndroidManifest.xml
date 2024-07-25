@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.quotecomposeapp"
+
     >
 
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -17,7 +17,7 @@
         android:theme="@style/Theme.MyRecipeApp"
         tools:targetApi="31">
         <activity
-            android:name="com.example.quotecomposeapp.MainActivity"
+            android:name="com.example.RecipeApp.MainActivity"
             android:windowSoftInputMode="adjustResize"
             android:exported="true"
             android:label="@string/app_name"
